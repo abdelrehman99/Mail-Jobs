@@ -1,9 +1,10 @@
 # Mail-Jobs
 
 ## Overview:
+
 ### This is a javascript bot to scrape web jobs and email it to me to apply easy and test my javascript skills.
 
-##To install and try this script :
+## To install and try this script :
 ### First we create a free account on https://serpapi.com/search-api .
 ### Second Clone this repo.
 `git clone https://github.com/abdelrehman99/Mail-Jobs.git.` 
