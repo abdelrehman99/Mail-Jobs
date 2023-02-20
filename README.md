@@ -2,7 +2,7 @@
 
 ### Overview:
 
-This is a javascript bot to scrape web jobs and email it to me to apply easy and test my javascript skills.
+This is a javascript bot to scrape web jobs and email it to me to apply easy and test my javascript skills. I used SerApi to fetch the neccassry search data and NodeMailer to send the data.
 
 ### To install and try this script :
 First we create a free account on https://serpapi.com/search-api .
