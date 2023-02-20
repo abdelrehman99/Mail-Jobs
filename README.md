@@ -7,7 +7,9 @@ This is a javascript bot to scrape web jobs and email it to me to apply easy and
 ### To install and try this script :
 First we create a free account on https://serpapi.com/search-api .
 
-Second Clone this repo.
+Then add the api key in index.js.
+
+Then Clone this repo.
 ```
 git clone https://github.com/abdelrehman99/Mail-Jobs.git.
 ``` 
